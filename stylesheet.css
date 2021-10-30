@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0px;
+    background: #DDDDDD;
+}
+.header{
+    height: 100vh;
+}
+.main-logo{
+    padding-top: 50px;
+    padding-left: 560px;
+    padding-bottom: 50px;
+    float: center;
+}
+.news-diff{
+    
+    padding-left: 150px;
+}
+.br-br
+{
+    background-color:#DDDDDD;
+}
+.text{
+    padding-left: 55px;
+}
+.text-1{
+    padding-left: 50px;
+
+}
+.text-2{
+    padding-left: 50px;
+}
+.text-3{
+    padding-left: 45px;
+}
+.text-4{
+    padding-left: 70px;
+}
+.text-5{
+    padding-left: 40px;
+
+}
+.text-6{
+    padding-left: 50px;
+}
+.text-7{
+    padding-left: 50px;
+}
+.last{
+    padding-left: 280px;
+}
